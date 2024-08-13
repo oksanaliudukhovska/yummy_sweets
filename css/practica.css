@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    font-family: Montserrat;
+}
+.logo{
+    width: 79px;
+    height: 79px;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    
+}
+.nav-verh{
+    display: flex;
+    align-items: center;
+}
+.nav-verh a{
+    margin-left: 50px;
+    text-decoration: none;
+    color: #774E2E;
+    font-size: 16px;
+    font-weight: 500;
+}
+.mops-verh{
+    padding-top: 60px;
+    background-image: url(../images/bg.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+.yummi-welcome{
+    width: 575px;
+    padding-bottom: 50px;
+}
+.yummi-welcome h1{
+    font-size: 110px;
+    font-weight: 800;
+    margin: 0;
+    color: #774E2E;
+    padding-bottom: 40px;
+}
+.yummi-welcome h1 span{
+    color: #F37F34;
+}
+.yummi-welcome p{
+    color: #774E2E;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    text-align: justify;
+}
+.yummi-welcome button{
+    border: none;
+    background-color: #774E2E;
+    color: #fff;
+    font-size: 20px;
+    line-height: 26px;
+    padding: 22px 41px;
+    margin-top: 50px;
+    font-weight: 500;
+}
+figure{
+    width: 370px;
+    margin: 0;
+    background-color: #fff;
+    margin-bottom: 50px;
+}
+.konfetu{
+    display: flex;
+    justify-content: space-between;
+}
+.section-one{
+    background-color: #FFF9EA;
+    text-align: center;
+}
+.first-section h2{
+    font-size: 72px;
+    font-weight: 700;
+    color: #F37F34;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0;
+}
+.first-section h2 span{
+    color: #774E2E;
+}
+figcaption h3{
+    color: #774E2E;
+}
+figcaption p{
+    color: #774E2E;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+.levo-niz{
+    width: 575px;
+    padding-bottom: 50px;
+    color: #774E2E;
+    font-weight: 500;
+}
+.third-section{
+    background-image: url(../images/mops3.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+.levo-niz h3{
+    font-size: 72px;
+    font-weight: 700;
+    color: #F37F34;
+}
+.levo-niz span{
+   color: #774E2E; 
+}
+.levo-niz p{
+    color: #774E2E;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;  
+    text-align: justify;
+}
+footer{
+    background-color: #774E2E;
+}
+.footer-logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
